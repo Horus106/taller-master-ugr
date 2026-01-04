@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.*
+
+# Credentials / keys
+*.key
+*.pem
+*.crt
+credentials.*
+secrets.*
+
+# Common secret-ish names
+api_key*
+apikey*
+token*
+secret*
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
