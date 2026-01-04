@@ -134,10 +134,13 @@ git log -p | grep -i "password|api_key|secret|token" | head -20
 **Screenshots** (if applicable):
 - Configuración de las reglas de protección de la rama `main`:
 ![cap1](./img/Imagen1.png)
-![cap1](./img/Imagen2.png)
-![cap1](./img/Imagen3.png)
-![cap1](./img/Imagen4.png)
-![cap1](./img/Imagen5.png)
+![cap2](./img/Imagen2.png)
+![cap3](./img/Imagen3.png)
+![cap4](./img/Imagen4.png)
+![cap5](./img/Imagen5.png)
+
+- Captura de la llave gpg
+![cap6](./img/Imagen6.png)
 
 
 ---
