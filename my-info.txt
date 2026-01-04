@@ -1,0 +1,3 @@
+Your name: Juan Antonio Rodríguez Martínez
+Favorite programming language: Python
+Why you're learning Git: To collaborate professionally, manage versions safely, and work with teams using branches and pull requests.
