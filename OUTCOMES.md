@@ -139,7 +139,8 @@ git log -p | grep -i "password|api_key|secret|token" | head -20
 ![cap4](./img/Imagen4.png)
 ![cap5](./img/Imagen5.png)
 
-- Captura de la llave gpg
+- Captura de la llave gpg:
+
 ![cap6](./img/Imagen6.png)
 
 
